@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nature.Attributes.ColumnIDAttribute" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\AttributeColumnID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Common.DesBase64">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\DES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Common.Functions">
+    <Position X="7.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAAMAgEAACDAAAAAgACoBABAAACAABACkAGxAAAAAAg=</HashCode>
+      <FileName>Common\Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Common.Json">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAIAAAAAgAEAAAAAAAAEABAAgABAAAAABAAQA=</HashCode>
+      <FileName>Common\Json.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Common.MyViewState">
+    <Position X="5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAIQAAQACACACAAAAAAAIACCAAAAAAEAgAA=</HashCode>
+      <FileName>Common\ViewState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Data.Model.WebList1">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgEAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Model\WebModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Data.Model.WebList2">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAQAABAgEAAAAAABAgAACAAAAAAAAgAAAAEAAA=</HashCode>
+      <FileName>Data\Model\WebModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.Data.Model.WebList2Format">
+    <Position X="0.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Model\WebModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Nature.Data.IDal" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQCIAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IDAL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Nature.Common.SaveViewStateLocation">
+    <Position X="2.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAABAgABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Common\ViewState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Nature.Data.Func&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Data\IDAL.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
